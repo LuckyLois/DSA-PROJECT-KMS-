@@ -1,4 +1,4 @@
-# DSA-PROJECT-KMS- PROJECT A 
+# DSA-PROJECT-KMS- 
 ## BUSINESS OBJECTIVES
 Maximize sales and profitability across customer segments and regions.
 
